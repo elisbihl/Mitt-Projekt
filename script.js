@@ -1,4 +1,1 @@
-function r(let af)
-{
-  return af;
-}
+console.log("Hello World");
